@@ -27,7 +27,7 @@
   {
     "id": "6d485da7-6729-4b80-b3aa-9ec48370c624",
     "name": "08 - funções de entrada e saída",
-    "semaphore": "vermelho"
+    "semaphore": "amarelo"
   },
   {
     "id": "c3ae6669-c9b3-4697-837b-f1f82716fa81",
@@ -57,6 +57,26 @@
   {
     "id": "5def04e5-ff16-4054-a469-03d60a62c940",
     "name": "14 - operador de associação",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "7f5aa66f-5f00-4005-a510-30689293b196",
+    "name": "Bibliografia",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "933c0123-bed6-4e1d-b4db-422983dd67af",
+    "name": "Introdução",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "af743355-5a94-44fc-a526-e8c6b381df30",
+    "name": "Como Conseguir Tempo",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "565723c6-4b2e-4b6b-92ea-b37a959b0f6c",
+    "name": "Psicologia",
     "semaphore": "vermelho"
   }
 ]
