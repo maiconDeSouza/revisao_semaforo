@@ -1,7 +1,62 @@
 [
   {
-    "id": "a408c6ec-c5f5-45e7-85a1-ea63c724e199",
-    "name": "js",
+    "id": "88e0495c-5dad-441f-a5d4-9c82aba89b34",
+    "name": "04 - tipos de dados",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "78e2887d-ea93-47c8-aa5b-64cdf7129598",
+    "name": "05 - modo interativo",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "c36271d9-735d-4fd3-bc22-137aaffcb50a",
+    "name": "06 - variáveis e constantes",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "a5895a66-3325-4f7b-b80b-31cd2b42967c",
+    "name": "07 - conversão de tipos",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "f9daf259-e879-47a0-9cea-01d3cc4be519",
+    "name": "built-in em  Python",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "6d485da7-6729-4b80-b3aa-9ec48370c624",
+    "name": "08 - funções de entrada e saída",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "c3ae6669-c9b3-4697-837b-f1f82716fa81",
+    "name": "09 - operadores aritméticos",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "0e648a75-9fba-4981-84e4-142138ca9f04",
+    "name": "10 - operadores de comparação",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "578d1568-d080-4692-9ba3-b9c26b0ee44b",
+    "name": "11 - operadores de atribuição",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "a767f5c1-a452-470d-be26-cdc8114dfca7",
+    "name": "12 - operadores lógicos",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "9954e86e-20bb-4adb-9581-d7269ef6bc00",
+    "name": "13 - operador de identidade",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "5def04e5-ff16-4054-a469-03d60a62c940",
+    "name": "14 - operador de associação",
     "semaphore": "vermelho"
   }
 ]
