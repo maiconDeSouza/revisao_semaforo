@@ -42,12 +42,12 @@
   {
     "id": "578d1568-d080-4692-9ba3-b9c26b0ee44b",
     "name": "11 - operadores de atribuição",
-    "semaphore": "vermelho"
+    "semaphore": "amarelo"
   },
   {
     "id": "a767f5c1-a452-470d-be26-cdc8114dfca7",
     "name": "12 - operadores lógicos",
-    "semaphore": "vermelho"
+    "semaphore": "verde"
   },
   {
     "id": "9954e86e-20bb-4adb-9581-d7269ef6bc00",
