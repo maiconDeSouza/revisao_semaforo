@@ -78,5 +78,25 @@
     "id": "565723c6-4b2e-4b6b-92ea-b37a959b0f6c",
     "name": "Psicologia",
     "semaphore": "vermelho"
+  },
+  {
+    "id": "96d36db8-10fa-4ba2-b477-ee5fd163d86c",
+    "name": "Administração do Tempo",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "1a6f1ddc-1826-4e0e-bd91-d5449a1f9c9a",
+    "name": "Ouro Escondido",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "aa63905c-956d-42a4-b190-ec72ae58fba5",
+    "name": "15 - Indentação e blocos",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "bd84bf0d-6a3d-43f4-af55-2e2f438d4f63",
+    "name": "16 - Estruturas condicionais",
+    "semaphore": "vermelho"
   }
 ]
