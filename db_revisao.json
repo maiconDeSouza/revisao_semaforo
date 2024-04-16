@@ -98,5 +98,15 @@
     "id": "bd84bf0d-6a3d-43f4-af55-2e2f438d4f63",
     "name": "16 - Estruturas condicionais",
     "semaphore": "vermelho"
+  },
+  {
+    "id": "4ced2dff-886d-47fd-85a6-d7c7ee5b2810",
+    "name": "17 - Estrutura de repetição",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "92d8fcaf-37c2-4344-887e-5fbd7b2ddc5e",
+    "name": "função ranger()",
+    "semaphore": "vermelho"
   }
 ]
