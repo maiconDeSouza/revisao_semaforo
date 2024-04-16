@@ -17,7 +17,7 @@
   {
     "id": "a5895a66-3325-4f7b-b80b-31cd2b42967c",
     "name": "07 - conversão de tipos",
-    "semaphore": "vermelho"
+    "semaphore": "verde"
   },
   {
     "id": "f9daf259-e879-47a0-9cea-01d3cc4be519",
@@ -37,7 +37,7 @@
   {
     "id": "0e648a75-9fba-4981-84e4-142138ca9f04",
     "name": "10 - operadores de comparação",
-    "semaphore": "vermelho"
+    "semaphore": "verde"
   },
   {
     "id": "578d1568-d080-4692-9ba3-b9c26b0ee44b",
