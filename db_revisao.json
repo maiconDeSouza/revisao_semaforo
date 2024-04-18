@@ -108,5 +108,25 @@
     "id": "92d8fcaf-37c2-4344-887e-5fbd7b2ddc5e",
     "name": "função ranger()",
     "semaphore": "vermelho"
+  },
+  {
+    "id": "94a057ee-027d-4d45-a56d-3aac83f0f91e",
+    "name": "18.1 - Conhecendo métodos úteis da classe string",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "ac504a63-1ab9-4d8b-95bb-799b7561bc9d",
+    "name": "18.2 - Interpolação de variáveis",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "fc94f979-bd30-42c1-8d92-39a29cc685b5",
+    "name": "18.3 - Fatiamento de string",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "7b5dd82c-26e8-4c0e-8848-7568ac21de7a",
+    "name": "18.4 - String múltiplas linhas",
+    "semaphore": "vermelho"
   }
 ]
