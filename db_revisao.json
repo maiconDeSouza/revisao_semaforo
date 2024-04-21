@@ -128,5 +128,35 @@
     "id": "7b5dd82c-26e8-4c0e-8848-7568ac21de7a",
     "name": "18.4 - String múltiplas linhas",
     "semaphore": "vermelho"
+  },
+  {
+    "id": "bd519f45-d264-4315-b02e-07baf8a18ff5",
+    "name": "01 - Listas",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "3cf262b7-48e5-433e-b1f8-c198118f7886",
+    "name": "1.1 - Métodos de Lista",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "8ed6023c-922f-4dcf-90f6-5b2db6f8c17d",
+    "name": "02 - Tuplas",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "5bc87dd3-7f9a-4b81-8c29-cd06916e1a25",
+    "name": "enumerate()",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "ddb8bdb9-b81b-44ee-9109-67196ab7a430",
+    "name": "03 - Conjuntos",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "fa323ad2-df97-487b-a1a5-c39cf6102279",
+    "name": "04 - Dicionários - Criação e acesso aos dados",
+    "semaphore": "vermelho"
   }
 ]
