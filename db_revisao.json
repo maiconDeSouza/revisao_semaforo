@@ -158,5 +158,10 @@
     "id": "fa323ad2-df97-487b-a1a5-c39cf6102279",
     "name": "04 - Dicionários - Criação e acesso aos dados",
     "semaphore": "vermelho"
+  },
+  {
+    "id": "fa7ad8df-fcd8-4245-8492-9434f74e30eb",
+    "name": "5 - Funções Python",
+    "semaphore": "vermelho"
   }
 ]
