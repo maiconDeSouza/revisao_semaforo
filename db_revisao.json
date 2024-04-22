@@ -12,7 +12,7 @@
   {
     "id": "c36271d9-735d-4fd3-bc22-137aaffcb50a",
     "name": "06 - variáveis e constantes",
-    "semaphore": "vermelho"
+    "semaphore": "verde"
   },
   {
     "id": "a5895a66-3325-4f7b-b80b-31cd2b42967c",
@@ -92,7 +92,7 @@
   {
     "id": "aa63905c-956d-42a4-b190-ec72ae58fba5",
     "name": "15 - Indentação e blocos",
-    "semaphore": "vermelho"
+    "semaphore": "verde"
   },
   {
     "id": "bd84bf0d-6a3d-43f4-af55-2e2f438d4f63",
@@ -112,7 +112,7 @@
   {
     "id": "94a057ee-027d-4d45-a56d-3aac83f0f91e",
     "name": "18.1 - Conhecendo métodos úteis da classe string",
-    "semaphore": "vermelho"
+    "semaphore": "amarelo"
   },
   {
     "id": "ac504a63-1ab9-4d8b-95bb-799b7561bc9d",
@@ -132,17 +132,17 @@
   {
     "id": "bd519f45-d264-4315-b02e-07baf8a18ff5",
     "name": "01 - Listas",
-    "semaphore": "vermelho"
+    "semaphore": "amarelo"
   },
   {
     "id": "3cf262b7-48e5-433e-b1f8-c198118f7886",
     "name": "1.1 - Métodos de Lista",
-    "semaphore": "vermelho"
+    "semaphore": "amarelo"
   },
   {
     "id": "8ed6023c-922f-4dcf-90f6-5b2db6f8c17d",
     "name": "02 - Tuplas",
-    "semaphore": "vermelho"
+    "semaphore": "amarelo"
   },
   {
     "id": "5bc87dd3-7f9a-4b81-8c29-cd06916e1a25",
