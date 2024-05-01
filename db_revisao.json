@@ -163,5 +163,15 @@
     "id": "fa7ad8df-fcd8-4245-8492-9434f74e30eb",
     "name": "5 - Funções Python",
     "semaphore": "vermelho"
+  },
+  {
+    "id": "3c112806-1f69-45fe-ae32-012587be06e7",
+    "name": "01 - O que é Orientação a Objetos (OO)?",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "fa3bb75d-d59a-475c-bc13-7f5403b4ef0f",
+    "name": "02 - Os conceitos de Classes e Objetos",
+    "semaphore": "vermelho"
   }
 ]
