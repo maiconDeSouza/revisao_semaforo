@@ -1,177 +1,42 @@
 [
   {
-    "id": "88e0495c-5dad-441f-a5d4-9c82aba89b34",
-    "name": "04 - tipos de dados",
-    "semaphore": "vermelho"
-  },
-  {
-    "id": "78e2887d-ea93-47c8-aa5b-64cdf7129598",
-    "name": "05 - modo interativo",
-    "semaphore": "vermelho"
-  },
-  {
-    "id": "c36271d9-735d-4fd3-bc22-137aaffcb50a",
-    "name": "06 - variáveis e constantes",
+    "id": "c5c22d80-c44d-4ae8-87ac-4c85446a5891",
+    "name": "Web Scraper para Previsão do Tempo",
     "semaphore": "verde"
   },
   {
-    "id": "a5895a66-3325-4f7b-b80b-31cd2b42967c",
-    "name": "07 - conversão de tipos",
+    "id": "4a2462a3-73a3-47b9-a3db-1a22f4258682",
+    "name": "Pandas",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "d2779451-b953-445c-aab3-0c64223de74e",
+    "name": "NumPy",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "7899f5d1-d563-49dd-b515-53a73ef78af9",
+    "name": "matplotlib",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "034a1e7e-2888-4000-a076-7ff9d8cda5c6",
+    "name": "Guido van Rossum",
     "semaphore": "verde"
   },
   {
-    "id": "f9daf259-e879-47a0-9cea-01d3cc4be519",
-    "name": "built-in em  Python",
+    "id": "0d381811-0aa8-4c22-93df-49e2dd6ee81c",
+    "name": "Flask",
     "semaphore": "vermelho"
   },
   {
-    "id": "6d485da7-6729-4b80-b3aa-9ec48370c624",
-    "name": "08 - funções de entrada e saída",
-    "semaphore": "amarelo"
-  },
-  {
-    "id": "c3ae6669-c9b3-4697-837b-f1f82716fa81",
-    "name": "09 - operadores aritméticos",
+    "id": "4ef97a70-07fe-44b4-a47f-dce0df9cbdc3",
+    "name": "Django",
     "semaphore": "vermelho"
   },
   {
-    "id": "0e648a75-9fba-4981-84e4-142138ca9f04",
-    "name": "10 - operadores de comparação",
-    "semaphore": "verde"
-  },
-  {
-    "id": "578d1568-d080-4692-9ba3-b9c26b0ee44b",
-    "name": "11 - operadores de atribuição",
-    "semaphore": "amarelo"
-  },
-  {
-    "id": "a767f5c1-a452-470d-be26-cdc8114dfca7",
-    "name": "12 - operadores lógicos",
-    "semaphore": "verde"
-  },
-  {
-    "id": "9954e86e-20bb-4adb-9581-d7269ef6bc00",
-    "name": "13 - operador de identidade",
-    "semaphore": "vermelho"
-  },
-  {
-    "id": "5def04e5-ff16-4054-a469-03d60a62c940",
-    "name": "14 - operador de associação",
-    "semaphore": "vermelho"
-  },
-  {
-    "id": "7f5aa66f-5f00-4005-a510-30689293b196",
-    "name": "Bibliografia",
-    "semaphore": "vermelho"
-  },
-  {
-    "id": "933c0123-bed6-4e1d-b4db-422983dd67af",
-    "name": "Introdução",
-    "semaphore": "vermelho"
-  },
-  {
-    "id": "af743355-5a94-44fc-a526-e8c6b381df30",
-    "name": "Como Conseguir Tempo",
-    "semaphore": "vermelho"
-  },
-  {
-    "id": "565723c6-4b2e-4b6b-92ea-b37a959b0f6c",
-    "name": "Psicologia",
-    "semaphore": "vermelho"
-  },
-  {
-    "id": "96d36db8-10fa-4ba2-b477-ee5fd163d86c",
-    "name": "Administração do Tempo",
-    "semaphore": "vermelho"
-  },
-  {
-    "id": "1a6f1ddc-1826-4e0e-bd91-d5449a1f9c9a",
-    "name": "Ouro Escondido",
-    "semaphore": "vermelho"
-  },
-  {
-    "id": "aa63905c-956d-42a4-b190-ec72ae58fba5",
-    "name": "15 - Indentação e blocos",
-    "semaphore": "verde"
-  },
-  {
-    "id": "bd84bf0d-6a3d-43f4-af55-2e2f438d4f63",
-    "name": "16 - Estruturas condicionais",
-    "semaphore": "vermelho"
-  },
-  {
-    "id": "4ced2dff-886d-47fd-85a6-d7c7ee5b2810",
-    "name": "17 - Estrutura de repetição",
-    "semaphore": "vermelho"
-  },
-  {
-    "id": "92d8fcaf-37c2-4344-887e-5fbd7b2ddc5e",
-    "name": "função ranger()",
-    "semaphore": "vermelho"
-  },
-  {
-    "id": "94a057ee-027d-4d45-a56d-3aac83f0f91e",
-    "name": "18.1 - Conhecendo métodos úteis da classe string",
-    "semaphore": "amarelo"
-  },
-  {
-    "id": "ac504a63-1ab9-4d8b-95bb-799b7561bc9d",
-    "name": "18.2 - Interpolação de variáveis",
-    "semaphore": "vermelho"
-  },
-  {
-    "id": "fc94f979-bd30-42c1-8d92-39a29cc685b5",
-    "name": "18.3 - Fatiamento de string",
-    "semaphore": "vermelho"
-  },
-  {
-    "id": "7b5dd82c-26e8-4c0e-8848-7568ac21de7a",
-    "name": "18.4 - String múltiplas linhas",
-    "semaphore": "vermelho"
-  },
-  {
-    "id": "bd519f45-d264-4315-b02e-07baf8a18ff5",
-    "name": "01 - Listas",
-    "semaphore": "amarelo"
-  },
-  {
-    "id": "3cf262b7-48e5-433e-b1f8-c198118f7886",
-    "name": "1.1 - Métodos de Lista",
-    "semaphore": "amarelo"
-  },
-  {
-    "id": "8ed6023c-922f-4dcf-90f6-5b2db6f8c17d",
-    "name": "02 - Tuplas",
-    "semaphore": "amarelo"
-  },
-  {
-    "id": "5bc87dd3-7f9a-4b81-8c29-cd06916e1a25",
-    "name": "enumerate()",
-    "semaphore": "vermelho"
-  },
-  {
-    "id": "ddb8bdb9-b81b-44ee-9109-67196ab7a430",
-    "name": "03 - Conjuntos",
-    "semaphore": "vermelho"
-  },
-  {
-    "id": "fa323ad2-df97-487b-a1a5-c39cf6102279",
-    "name": "04 - Dicionários - Criação e acesso aos dados",
-    "semaphore": "vermelho"
-  },
-  {
-    "id": "fa7ad8df-fcd8-4245-8492-9434f74e30eb",
-    "name": "5 - Funções Python",
-    "semaphore": "vermelho"
-  },
-  {
-    "id": "3c112806-1f69-45fe-ae32-012587be06e7",
-    "name": "01 - O que é Orientação a Objetos (OO)?",
-    "semaphore": "vermelho"
-  },
-  {
-    "id": "fa3bb75d-d59a-475c-bc13-7f5403b4ef0f",
-    "name": "02 - Os conceitos de Classes e Objetos",
+    "id": "ffb446d6-1d6f-4113-8911-656358984f8e",
+    "name": "Dashboards",
     "semaphore": "vermelho"
   }
 ]

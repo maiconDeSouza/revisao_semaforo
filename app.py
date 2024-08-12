@@ -1,5 +1,6 @@
 import json
 import os
+import platform
 import time
 import random
 path = './db_revisao.json'
@@ -25,13 +26,24 @@ def create_new_note():
     id = input()
     print('Digite o nome da tarefa:')
     name = input()
-    new_note = {
-        'id': id,
-        'name': name,
-        'semaphore': 'vermelho'
-    }
+    print('Digite [1] para nota de estudos ou [2] para uma nota de revisão:')
+    review_type = input()
+    if review_type == "1":
+        new_note = {
+            'id': id,
+            'name': name,
+            'semaphore': 'vermelho'
+        }
+        return new_note
+    else:
+        new_note = {
+            'id': id,
+            'name': name,
+            'semaphore': 'verde'
+        }
+        return new_note
 
-    return new_note
+    
 
 
 def review_note(db):
@@ -131,7 +143,10 @@ def number_of_notes(db):
 
 
 def message(message):
-    os.system('clear')
+    if platform.system() == "Windows":
+        os.system('cls')
+    else:
+        os.system('clear')
     print(message)
     time.sleep(2)
 
