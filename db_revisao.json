@@ -1,42 +1,7 @@
 [
   {
-    "id": "c5c22d80-c44d-4ae8-87ac-4c85446a5891",
-    "name": "Web Scraper para Previsão do Tempo",
+    "id": "3e2c03e1-3436-441f-bcde-0354da855de9",
+    "name": "zip_longest",
     "semaphore": "verde"
-  },
-  {
-    "id": "4a2462a3-73a3-47b9-a3db-1a22f4258682",
-    "name": "Pandas",
-    "semaphore": "vermelho"
-  },
-  {
-    "id": "d2779451-b953-445c-aab3-0c64223de74e",
-    "name": "NumPy",
-    "semaphore": "vermelho"
-  },
-  {
-    "id": "7899f5d1-d563-49dd-b515-53a73ef78af9",
-    "name": "matplotlib",
-    "semaphore": "vermelho"
-  },
-  {
-    "id": "034a1e7e-2888-4000-a076-7ff9d8cda5c6",
-    "name": "Guido van Rossum",
-    "semaphore": "verde"
-  },
-  {
-    "id": "0d381811-0aa8-4c22-93df-49e2dd6ee81c",
-    "name": "Flask",
-    "semaphore": "vermelho"
-  },
-  {
-    "id": "4ef97a70-07fe-44b4-a47f-dce0df9cbdc3",
-    "name": "Django",
-    "semaphore": "vermelho"
-  },
-  {
-    "id": "ffb446d6-1d6f-4113-8911-656358984f8e",
-    "name": "Dashboards",
-    "semaphore": "vermelho"
   }
 ]

@@ -26,24 +26,12 @@ def create_new_note():
     id = input()
     print('Digite o nome da tarefa:')
     name = input()
-    print('Digite [1] para nota de estudos ou [2] para uma nota de revisão:')
-    review_type = input()
-    if review_type == "1":
-        new_note = {
-            'id': id,
-            'name': name,
-            'semaphore': 'vermelho'
-        }
-        return new_note
-    else:
-        new_note = {
-            'id': id,
-            'name': name,
-            'semaphore': 'verde'
-        }
-        return new_note
-
-    
+    new_note = {
+        'id': id,
+        'name': name,
+        'semaphore': 'vermelho'
+    }
+    return new_note
 
 
 def review_note(db):
@@ -87,9 +75,8 @@ def review_note(db):
             print("vermelha")
             print("amarelo")
             print("verde")
-            print()
             semaphore = input()
-            if semaphore != 'vermelho' and semaphore != 'amarelo' and semaphore != 'verde':
+            if semaphore != 'vermelha' and semaphore != 'amarelo' and semaphore != 'verde':
                 message('Digite um valor valido!')
                 continue
             else:
