@@ -48,7 +48,6 @@ def review_note(db):
             print("vermelho")
             print("amarelo")
             print("verde")
-            print()
             semaphore = input()
             if semaphore != 'vermelho' and semaphore != 'amarelo' and semaphore != 'verde':
                 message('Digite um valor valido!')
@@ -72,11 +71,11 @@ def review_note(db):
             print('\n')
             message(random_note)
             print("Depois que revisar a nota, digite:")
-            print("vermelha")
+            print("vermelho")
             print("amarelo")
             print("verde")
             semaphore = input()
-            if semaphore != 'vermelha' and semaphore != 'amarelo' and semaphore != 'verde':
+            if semaphore != 'vermelho' and semaphore != 'amarelo' and semaphore != 'verde':
                 message('Digite um valor valido!')
                 continue
             else:
@@ -98,10 +97,9 @@ def review_note(db):
             print('\n')
             message(random_note)
             print("Depois que revisar a nota, digite:")
-            print("vermelha")
+            print("vermelho")
             print("amarelo")
             print("verde")
-            print()
             semaphore = input()
             if semaphore != 'vermelho' and semaphore != 'amarelo' and semaphore != 'verde':
                 message('Digite um valor valido!')
