@@ -3,5 +3,105 @@
     "id": "3e2c03e1-3436-441f-bcde-0354da855de9",
     "name": "zip_longest",
     "semaphore": "vermelho"
+  },
+  {
+    "id": "b4f344af-5cc1-468d-9328-115c6cef819b",
+    "name": "zip()",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "e2978b4f-cfe0-4891-843a-378c2cb8d29a",
+    "name": "yield from",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "3d423729-309a-443d-968e-68a4e3e003c3",
+    "name": "while",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "5b1603e1-31bd-40ac-882b-1d7b60c89e15",
+    "name": "vars()",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "212fa187-9947-4a2c-b00c-cce4bfc0d6fa",
+    "name": "variáveis livres e nonlocal",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "3885ddf3-944e-4a3f-b312-18cd7144b1da",
+    "name": "usando operadores aritméticos em string",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "ff693c40-4425-415e-ac99-4b24650df71e",
+    "name": "try e except",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "f295fb18-f2fe-42fc-bd81-14928c549ee9",
+    "name": "sys em Python",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "c96e2c20-6758-47e8-a679-63b4e7c92706",
+    "name": "sum()",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "5c67ca00-9337-44d3-93cc-307ca31f3fa7",
+    "name": "sorted()",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "6f9c8a1d-c616-4dbb-a64f-6f976490197b",
+    "name": "simplificar um código",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "592d6757-bbbd-4592-9389-98c13d601deb",
+    "name": "setrecursionlimit",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "4a00fe87-b1b6-46d0-82c1-24956062d86f",
+    "name": "set operadores em Python",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "3f93f8af-4cfa-447a-8f21-90248f4842e6",
+    "name": "set em Python",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "3adf41bd-a004-48cf-9775-36d628138a3f",
+    "name": "remove()",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "b15dc428-c44e-4d42-a34b-0901b7bc341f",
+    "name": "regex com Python",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "b2e13a59-c17b-41b1-9a02-2dda6872cfee",
+    "name": "reduce()",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "41a51d28-9280-43ca-850b-6c892a903bd3",
+    "name": "random no Python",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "db71bd03-48f7-4041-856b-f0784f9dd72a",
+    "name": "print()",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "b46fc775-b643-464f-8034-74d4d1b83383",
+    "name": "Cara, isso me ajudou muuuito a parar de desperdiçar meu tempo…",
+    "semaphore": "vermelho"
   }
 ]
