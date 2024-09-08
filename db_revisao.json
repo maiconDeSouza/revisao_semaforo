@@ -133,5 +133,35 @@
     "id": "dd373b24-b670-489f-8523-86a2303621a7",
     "name": "Comparação entre forms.Form e forms.ModelForm no Django",
     "semaphore": "vermelho"
+  },
+  {
+    "id": "8a462d1b-916f-449e-8c36-7066e3557d89",
+    "name": "HTMX - Sujeito Programador Seção 3",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "dd713bca-6073-4465-b85f-6084a1616270",
+    "name": "HTMX - Sujeito Programador Seção 2",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "7d358955-6761-4ea1-a4c7-b88ef32243a3",
+    "name": "hx-swap",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "9282a24e-e15c-4c72-adf3-730ab15fedce",
+    "name": "hx-trigger",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "44e0ee4b-340f-4ccc-8650-c3fc446601a8",
+    "name": "HTMX - Conceitos que eu aprendi no começo do curso",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "ee6ab05a-d578-41d7-85e9-6b693c75913c",
+    "name": "Reflexões",
+    "semaphore": "vermelho"
   }
 ]
