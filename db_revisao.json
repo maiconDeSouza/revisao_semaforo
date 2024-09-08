@@ -163,5 +163,65 @@
     "id": "ee6ab05a-d578-41d7-85e9-6b693c75913c",
     "name": "Reflexões",
     "semaphore": "vermelho"
+  },
+  {
+    "id": "06150c52-ecf2-457b-a685-14f021090153",
+    "name": "Capítulo - Comece por aqui",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "64ec29d9-4b1a-4ec7-9dfd-f3f0fa09545e",
+    "name": "pegar nome do erro",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "399219e2-7123-4b18-8155-efdb8920098a",
+    "name": "partial",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "33ce8b4f-07da-46b0-b6ef-8086a5b1d2d0",
+    "name": "operadores aritméticos",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "d60920ac-15de-4b21-bb5a-1089dbe33fa1",
+    "name": "operador de desempacotamento para dicionários (**) em Python",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "bc23b552-b1f1-4997-80cc-47f7f5b9c2a6",
+    "name": "números reais",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "3b473fb4-94d8-4a7d-9c69-62e2a2b5a20e",
+    "name": "números inteiros",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "e0309c17-e39e-45a5-a308-2fbf11a74eb4",
+    "name": "métodos set em Python",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "f0fa8d75-ba5f-4b22-a782-aaa07b23da9e",
+    "name": "métodos estáticos",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "69181189-1ea2-48f8-81fa-1b491ee97c76",
+    "name": "métodos de Tuple",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "71c8591f-b757-4c94-8658-fbac841dfaeb",
+    "name": "modulo os no Python",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "de5f66f7-bafc-4974-975b-1ec749849b5c",
+    "name": "modulo json em Python",
+    "semaphore": "vermelho"
   }
 ]
