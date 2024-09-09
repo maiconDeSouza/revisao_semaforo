@@ -238,5 +238,65 @@
     "id": "c4053ec8-79b2-45f6-a13c-d380bf7035e6",
     "name": "As Armas da Persuasão - introdução",
     "semaphore": "vermelho"
+  },
+  {
+    "id": "f17c17ff-2c5c-4d62-b835-e498dc8ed858",
+    "name": "Dicas de como ler um livro",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "c4053ec8-79b2-45f6-a13c-d380bf7035e6",
+    "name": "As Armas da Persuasão - introdução",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "a06e2a6f-064d-4200-b52e-36d8b23c46c2",
+    "name": "modulo itertools no Python",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "89e87467-71b7-44b1-8bf0-27c0cfb1cd71",
+    "name": "method vs @classmethod vs @staticmethod",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "df6b5b48-f2d2-47a4-b0cc-1bf95157090e",
+    "name": "max() e min() em Python",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "0efdc3c2-2dbf-4ad6-8b43-816a54ab2ec6",
+    "name": "map()",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "9c38a4ff-dfb8-48bd-8ba6-efbe7b1d17c1",
+    "name": "mais um exemplo de @decorate professor @Luis Otávio Miranda",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "50d765de-1f3a-44a1-9214-035f8ecb37bb",
+    "name": "load()",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "9b6aefaa-1d19-4761-a326-ed6817e90884",
+    "name": "lançar um erro raise em Python",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "9ef43f80-b04b-4648-ba51-02e0b41ff0f2",
+    "name": "isinstace()",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "b525e0d3-a8fb-4cb7-94d6-c684ddca132e",
+    "name": "importação única e gerenciamento dinâmico de módulos em Python",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "23a31068-4430-460e-8a04-a986d1a55323",
+    "name": "import package",
+    "semaphore": "vermelho"
   }
 ]
