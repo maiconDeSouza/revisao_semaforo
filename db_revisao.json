@@ -223,5 +223,10 @@
     "id": "de5f66f7-bafc-4974-975b-1ec749849b5c",
     "name": "modulo json em Python",
     "semaphore": "vermelho"
+  },
+  {
+    "id": "bddce717-2b90-4897-b15d-70313f2ef8d9",
+    "name": "Seção 4: Models e Miigrations - ORM + Versionamento de banco de dados",
+    "semaphore": "vermelho"
   }
 ]
