@@ -228,5 +228,15 @@
     "id": "bddce717-2b90-4897-b15d-70313f2ef8d9",
     "name": "Seção 4: Models e Miigrations - ORM + Versionamento de banco de dados",
     "semaphore": "vermelho"
+  },
+  {
+    "id": "a9bcb032-6773-4c6e-9278-f2566cfc76a0",
+    "name": "As Armas da Persuasão - Prefácio",
+    "semaphore": "vermelho"
+  },
+  {
+    "id": "c4053ec8-79b2-45f6-a13c-d380bf7035e6",
+    "name": "As Armas da Persuasão - introdução",
+    "semaphore": "vermelho"
   }
 ]
