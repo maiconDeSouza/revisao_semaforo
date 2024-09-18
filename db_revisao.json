@@ -308,5 +308,10 @@
     "id": "40bb161e-f28b-4e58-a44f-e95b2fc6f6f2",
     "name": "A vida intelectual",
     "semaphore": "vermelho"
+  },
+  {
+    "id": "0d319b5d-a407-439d-b9dd-8acbb5a24aaf",
+    "name": "Módulo 6 - Projeto Carros - Django Master",
+    "semaphore": "vermelho"
   }
 ]
